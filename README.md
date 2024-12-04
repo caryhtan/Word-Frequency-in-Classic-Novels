@@ -17,12 +17,6 @@ I used the following dataset:
 1. **HTML content of *Moby Dick***  
    This data was fetched from [Project Gutenberg](https://www.gutenberg.org/), a repository of free eBooks. The HTML file contains the full text of *Moby Dick*, along with some additional metadata and formatting.
 
-### Tools Used
-- **`requests`**: To fetch the HTML content of the book from Project Gutenberg.
-- **`BeautifulSoup`**: For parsing and extracting text data from the HTML file.
-- **`nltk`**: For tokenizing and processing the text data.
-- **`Counter`**: For calculating word frequencies.
-
 ## What I Found
 Here are some key insights I discovered:
 - **Most Frequent Words**: Commonly used words like "the," "and," and "of" appear most frequently, which is typical for English text.

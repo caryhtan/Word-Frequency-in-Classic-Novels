@@ -1,4 +1,4 @@
-# Analyzing Word Frequencies in Moby Dick
+# Analyzing Word Frequencies in Moby Dick Novel
 ![Moby Dick Illustration](moby_dick.jpg)
 
 Welcome to my project on exploring the most frequent words in Herman Melville's novel, *Moby Dick*! Using tools for web scraping and text analysis, I extracted, processed, and analyzed the text to uncover interesting insights about word usage. This project demonstrates the use of Python packages like `requests`, `BeautifulSoup`, and `nltk` for natural language processing (NLP).
